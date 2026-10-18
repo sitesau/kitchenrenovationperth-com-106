@@ -1,0 +1,22 @@
+{
+  "wheel_id": 410,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationperth-com-106",
+  "project": "kitchen-renovations-perth-cost-guide-dcd926376c12a68cdbc59ddf04",
+  "parent_t1_ref": "kitchenrenovationperth-com-152",
+  "node_role": "feeder",
+  "money_target": "kitchenrenovationperth.com.au",
+  "primary_kw": "kitchen renovations perth cost guide",
+  "intended_url": "https://sitesau.github.io/kitchenrenovationperth-com-106/",
+  "tier": "T2",
+  "writeback_nonce": "04db00fadf4ae58f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/kitchen-renovations-perth-warranty-d087c67c86c72fa83e41b0def791/",
+      "anchor": "the kitchen renovations perth warranty overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
